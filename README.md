@@ -4,7 +4,7 @@ Welcome to my personal portfolio! 🚀 Explore my skills, projects, and connect 
 
 ## About Me
 
-I'm [Your Full Name], a frontend developer passionate about crafting user-friendly web experiences.
+I'm Jino Johnson, a frontend developer passionate about crafting user-friendly web experiences.
 
 ## Projects
 
@@ -24,8 +24,7 @@ I'm [Your Full Name], a frontend developer passionate about crafting user-friend
 
 Connect with me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: jinocj03@gmail.com
+- LinkedIn: Jino Johnson(linkedin.com/in/jino-johnson-20a417260)
 
 Happy exploring! 👩‍💻🚀
