@@ -172,3 +172,30 @@ section{
     
     font-size: 2rem;
 }
+
+.container a img{
+    
+    font-size: 5rem;
+    background-color:white;
+    size: 10rem;
+    width: 5rem;
+}
+.container a1 img{
+    
+    font-size: 5rem;
+    background-color:rgb(35, 51, 200);
+    size: 10rem;
+    width: 5rem;
+}
+.home-content a img{
+    font-size: 5rem;
+    background-color:white;
+    size: 10rem;
+    width: 5rem;
+}
+.home-content a1 img{
+    font-size: 5rem;
+    background-color:rgb(35, 51, 200);
+    size: 10rem;
+    width: 5rem;
+}
