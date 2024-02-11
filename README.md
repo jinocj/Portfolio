@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# Jino Johnson Portfolio
 
 Welcome to my personal portfolio! 🚀 Explore my skills, projects, and connect with me.
 
@@ -8,9 +8,9 @@ I'm Jino Johnson, a frontend developer passionate about crafting user-friendly w
 
 ## Projects
 
-- **[Project 1](#)** - Brief description.
-- **[Project 2](#)** - Another exciting project.
-- **[Project 3](#)** - Showcase your diverse range of projects.
+- **[Project 1](#)** -E-Cycle App-> for e-waste managment
+- **[Project 2](#)** - Blood Bank Mnagment System
+
 
 ## Skills
 
